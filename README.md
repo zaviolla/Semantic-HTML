@@ -1,7 +1,6 @@
 # Semantic-HTML 
 
 
-# HTML5 Semantic
 
 ### Perbedaan dari halaman sebelumnya
 - tidak memiliki struktur seperti head untuk menyimpan css, title page dll.
